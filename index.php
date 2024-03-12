@@ -6,12 +6,11 @@
         <div id="appleid-signin" data-color="black" data-border="true" data-type="sign in"></div>
         <script type="text/javascript">
             AppleID.auth.init({
-                clientId : '[CLIENT_ID]',
-                scope : '[SCOPES]',
-                redirectURI : '[REDIRECT_URI]',
-                state : '[STATE]',
-                nonce : '[NONCE]',
-                usePopup : true
+                clientId : 'clientId',
+                scope : 'email name',
+                redirectURI : 'url',
+                state : 'fr',
+                usePopup : false
             });
         </script>
     </body>
