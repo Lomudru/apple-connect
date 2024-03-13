@@ -50,7 +50,7 @@ Select your App ID and fill the website url
 
 The domains and subdomains has to be the website url (if  your website is google type "google.com")
 
-And the return url should be the full url (if you want to return to google you type "https://google.com")
+And the return url should be the full url (if you want to return to google you type "https://www.google.com")
 
 Like that
 ![The textarea filled](https://i.goopics.net/aro2ik.png "The textarea filled")
